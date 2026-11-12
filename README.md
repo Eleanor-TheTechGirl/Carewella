@@ -3,8 +3,10 @@ From first flutter to first steps.
 CareWella is a care-navigation app for mothers in Lagos, Nigeria. It connects three groups that usually work apart: the mother, the laboratory that runs her tests, and the hospital that looks after her. A hospital can refer a mother for a test, she books it at a partner lab in her own language, the lab releases the result to her and to her hospital, and the hospital follows up. After the birth, the same mother keeps her baby's vaccine card in the app.
 CareWella works in English, Yorùbá, Hausa, Igbo and Naija (Nigerian Pidgin), runs in a phone's browser and can be installed to the home screen without an app store.
 CareWella is built by Chusommy Ventures Limited (RC 1614621, Lagos), whose laboratory arm, Chusommy Diagnostic Services, provides diagnostic screening.
-> **Status:** working MVP, live at [carewella.app](https://carewella.app) with demo data, in preparation for a pilot with partner labs and a hospital in Lagos. It is not yet used with real patient data. Before any real patient joins, the legal and security steps listed in [Before real patients](#before-real-patients) must be completed.
-> **About this repository:** this repository holds the project overview. The app's source code is kept in a private repository, available to reviewers on request, and will be released under Apache-2.0 before the pilot.
+
+**Status:** working MVP, live at [carewella.app](https://carewella.app) with demo data, in preparation for a pilot with partner labs and a hospital in Lagos. It is not yet used with real patient data. Before any real patient joins, the legal and security steps listed in [Before real patients](#before-real-patients) must be completed.
+
+**About this repository:** this repository holds the project overview. The app's source code is kept in a private repository, available to reviewers on request, and will be released under Apache-2.0 before the pilot.
 ---
 Contents
 Why CareWella exists
